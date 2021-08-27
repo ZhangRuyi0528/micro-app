@@ -1,0 +1,14 @@
+{
+  "name": "apps",
+  "version": "0.0.1",
+  "description": "微应用拆分独立模式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "001",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli": "^4.5.13"
+  }
+}
